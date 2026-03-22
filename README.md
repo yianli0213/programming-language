@@ -10,3 +10,5 @@
 # 課程筆記區、作業連結區、專題連結區  
 
 Markdown 語法說明：https://markdown.tw/
+
+[HW1]：https://colab.research.google.com/drive/1dHZkBD3PVHLN4vShplNAs9-37B4YsuD6?usp=sharing
